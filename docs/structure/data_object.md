@@ -8,7 +8,7 @@ nav_order: 7
 # Data Object
 
 <p align="justify ">
-  Highly multiplexed images and can have a lot of characteristic data. These are essentially the region proerties of the image which characterize it. More
+  Highly multiplexed images and can have a lot of characteristic data. These are essentially the region properties of the image which characterize it. More
   importantly, the number of labels.
 </p>
 
